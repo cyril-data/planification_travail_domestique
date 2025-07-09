@@ -9,219 +9,187 @@ jeudi,18h,Dîner : cuisine,Arnaud L,M,60.0,Équipe I
 jeudi,18h,Dîner : cuisine,Chloé M,M,60.0,Équipe I
 jeudi,18h,Dîner : cuisine,Mathieu B,M,60.0,Équipe I
 jeudi,18h,Dîner : cuisine,Sandrine R,M,60.0,Équipe I
-jeudi,20h30,Dîner : débarrassage et nettoyage des tables ,Nicolas K,M,15.0,Équipe J
-jeudi,20h30,Dîner : débarrassage et nettoyage des tables ,Sarah P,M,15.0,Équipe J
-jeudi,20h30,Dîner : débarrassage et nettoyage des tables ,Romain G,M,15.0,Équipe J
-jeudi,20h30,Dîner : débarrassage et nettoyage des tables ,Léa M,M,15.0,Équipe J
-jeudi,20h30,Dîner : débarrassage et nettoyage des tables ,David E,M,15.0,Équipe J
-jeudi,20h30,Dîner : débarrassage et nettoyage des tables ,Anaïs L,F,15.0,Équipe J
-jeudi,20h30,Dîner : débarrassage et nettoyage des tables ,Maxime J,M,15.0,Équipe J
-jeudi,20h30,Dîner : débarrassage et nettoyage des tables ,Pauline F,F,15.0,Équipe J
+jeudi,20h30,Dîner : nettoyage tables ,Nicolas K,M,15.0,Équipe J
+jeudi,20h30,Dîner : nettoyage tables ,Sarah P,M,15.0,Équipe J
+jeudi,20h30,Dîner : nettoyage tables ,Romain G,M,15.0,Équipe J
+jeudi,20h30,Dîner : nettoyage tables ,Léa M,M,15.0,Équipe J
+jeudi,20h45,Dîner :  vaisselle,David E,M,15.0,Équipe K
+jeudi,20h45,Dîner :  vaisselle,Anaïs L,F,15.0,Équipe K
+jeudi,20h45,Dîner :  vaisselle,Maxime J,M,15.0,Équipe K
+jeudi,20h45,Dîner :  vaisselle,Pauline F,F,15.0,Équipe K
 jeudi,20h45,Dîner :  vaisselle,Benoît C,M,15.0,Équipe K
 jeudi,20h45,Dîner :  vaisselle,Élise D,F,15.0,Équipe K
 jeudi,20h45,Dîner :  vaisselle,François B,M,15.0,Équipe K
 jeudi,20h45,Dîner :  vaisselle,Noémie S,F,15.0,Équipe K
-jeudi,20h45,Dîner :  vaisselle,Laurent H,M,15.0,Équipe K
-jeudi,20h45,Dîner :  vaisselle,Ingrid T,F,15.0,Équipe K
-jeudi,20h45,Dîner :  vaisselle,Vincent N,M,15.0,Équipe K
-jeudi,20h45,Dîner :  vaisselle,Claire R,F,15.0,Équipe K
-vendredi,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Claire D,F,15.0,Équipe A
-vendredi,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Julien T,M,15.0,Équipe A
-vendredi,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Sophie L,M,15.0,Équipe A
-vendredi,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Marc V,M,15.0,Équipe A
-vendredi,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Émilie G,M,15.0,Équipe A
-vendredi,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Antoine S,M,15.0,Équipe A
-vendredi,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Julie F,M,15.0,Équipe A
-vendredi,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Pierre H,M,15.0,Équipe A
-vendredi,9h15,Petit-déjeuner :  vaisselle,Jérôme L,M,15.0,Équipe B
-vendredi,9h15,Petit-déjeuner :  vaisselle,Justine M,F,15.0,Équipe B
-vendredi,9h15,Petit-déjeuner :  vaisselle,Kevin P,M,15.0,Équipe B
-vendredi,9h15,Petit-déjeuner :  vaisselle,Amandine C,F,15.0,Équipe B
-vendredi,9h15,Petit-déjeuner :  vaisselle,Stéphane V,M,15.0,Équipe B
-vendredi,9h15,Petit-déjeuner :  vaisselle,Maëlle G,F,15.0,Équipe B
-vendredi,9h15,Petit-déjeuner :  vaisselle,Damien A,M,15.0,Équipe B
-vendredi,9h15,Petit-déjeuner :  vaisselle,Marine K,F,15.0,Équipe B
+vendredi,9h,Ptit-déj : nettoyage tables ,Claire D,F,15.0,Équipe A
+vendredi,9h,Ptit-déj : nettoyage tables ,Julien T,M,15.0,Équipe A
+vendredi,9h,Ptit-déj : nettoyage tables ,Sophie L,M,15.0,Équipe A
+vendredi,9h,Ptit-déj : nettoyage tables ,Marc V,M,15.0,Équipe A
+vendredi,9h15,Ptit-déj :  vaisselle,Émilie G,M,15.0,Équipe B
+vendredi,9h15,Ptit-déj :  vaisselle,Antoine S,M,15.0,Équipe B
+vendredi,9h15,Ptit-déj :  vaisselle,Julie F,M,15.0,Équipe B
+vendredi,9h15,Ptit-déj :  vaisselle,Pierre H,M,15.0,Équipe B
+vendredi,9h15,Ptit-déj :  vaisselle,Laurent H,M,15.0,Équipe B
+vendredi,9h15,Ptit-déj :  vaisselle,Ingrid T,F,15.0,Équipe B
+vendredi,9h15,Ptit-déj :  vaisselle,Vincent N,M,15.0,Équipe B
+vendredi,9h15,Ptit-déj :  vaisselle,Claire R,F,15.0,Équipe B
+vendredi,11h,Déjeuner : cuisine,Jérôme L,M,60.0,Équipe C
+vendredi,11h,Déjeuner : cuisine,Justine M,F,60.0,Équipe C
+vendredi,11h,Déjeuner : cuisine,Kevin P,M,60.0,Équipe C
+vendredi,11h,Déjeuner : cuisine,Amandine C,F,60.0,Équipe C
+vendredi,11h,Déjeuner : cuisine,Stéphane V,M,60.0,Équipe C
+vendredi,11h,Déjeuner : cuisine,Maëlle G,F,60.0,Équipe C
+vendredi,11h,Déjeuner : cuisine,Damien A,M,60.0,Équipe C
+vendredi,11h,Déjeuner : cuisine,Marine K,F,60.0,Équipe C
 vendredi,11h,Déjeuner : cuisine,Quentin D,M,60.0,Équipe C
 vendredi,11h,Déjeuner : cuisine,Audrey J,F,60.0,Équipe C
-vendredi,11h,Déjeuner : cuisine,Julien T,M,60.0,Équipe C
-vendredi,11h,Déjeuner : cuisine,Sophie L,M,60.0,Équipe C
-vendredi,11h,Déjeuner : cuisine,Marc V,M,60.0,Équipe C
-vendredi,11h,Déjeuner : cuisine,Émilie G,M,60.0,Équipe C
-vendredi,11h,Déjeuner : cuisine,Antoine S,M,60.0,Équipe C
-vendredi,11h,Déjeuner : cuisine,Julie F,M,60.0,Équipe C
-vendredi,11h,Déjeuner : cuisine,Pierre H,M,60.0,Équipe C
-vendredi,11h,Déjeuner : cuisine,Nicolas K,M,60.0,Équipe C
-vendredi,13h30,Déjeuner : débarrassage et nettoyage des tables  ,Sarah P,M,15.0,Équipe D
-vendredi,13h30,Déjeuner : débarrassage et nettoyage des tables  ,Romain G,M,15.0,Équipe D
-vendredi,13h30,Déjeuner : débarrassage et nettoyage des tables  ,Léa M,M,15.0,Équipe D
-vendredi,13h30,Déjeuner : débarrassage et nettoyage des tables  ,David E,M,15.0,Équipe D
-vendredi,13h30,Déjeuner : débarrassage et nettoyage des tables  ,Maxime J,M,15.0,Équipe D
-vendredi,13h30,Déjeuner : débarrassage et nettoyage des tables  ,Benoît C,M,15.0,Équipe D
-vendredi,13h30,Déjeuner : débarrassage et nettoyage des tables  ,François B,M,15.0,Équipe D
-vendredi,13h30,Déjeuner : débarrassage et nettoyage des tables  ,Laurent H,M,15.0,Équipe D
-vendredi,13h45,Déjeuner : vaisselle ,Vincent N,M,15.0,Équipe E
-vendredi,13h45,Déjeuner : vaisselle ,Jérôme L,M,15.0,Équipe E
-vendredi,13h45,Déjeuner : vaisselle ,Kevin P,M,15.0,Équipe E
-vendredi,13h45,Déjeuner : vaisselle ,Stéphane V,M,15.0,Équipe E
-vendredi,13h45,Déjeuner : vaisselle ,Damien A,M,15.0,Équipe E
-vendredi,13h45,Déjeuner : vaisselle ,Claire D,F,15.0,Équipe E
+vendredi,13h30,Déjeuner : nettoyage tables  ,Julien T,M,15.0,Équipe D
+vendredi,13h30,Déjeuner : nettoyage tables  ,Sophie L,M,15.0,Équipe D
+vendredi,13h30,Déjeuner : nettoyage tables  ,Marc V,M,15.0,Équipe D
+vendredi,13h30,Déjeuner : nettoyage tables  ,Émilie G,M,15.0,Équipe D
+vendredi,13h45,Déjeuner : vaisselle ,Antoine S,M,15.0,Équipe E
+vendredi,13h45,Déjeuner : vaisselle ,Julie F,M,15.0,Équipe E
+vendredi,13h45,Déjeuner : vaisselle ,Pierre H,M,15.0,Équipe E
+vendredi,13h45,Déjeuner : vaisselle ,Nicolas K,M,15.0,Équipe E
 vendredi,13h45,Déjeuner : vaisselle ,Sarah P,M,15.0,Équipe E
 vendredi,13h45,Déjeuner : vaisselle ,Romain G,M,15.0,Équipe E
-vendredi,18h,Nettoyage parties communes,Léa M,M,30.0,Équipe F
-vendredi,18h,Nettoyage parties communes,David E,M,30.0,Équipe F
-vendredi,18h,Nettoyage parties communes,Anaïs L,F,30.0,Équipe F
-vendredi,18h,Nettoyage parties communes,Maxime J,M,30.0,Équipe F
-vendredi,18h,Nettoyage parties communes,Pauline F,F,30.0,Équipe F
-vendredi,18h,Nettoyage parties communes,Benoît C,M,30.0,Équipe F
-vendredi,18h,Nettoyage parties communes,Élise D,F,30.0,Équipe F
-vendredi,18h,Nettoyage parties communes,François B,M,30.0,Équipe F
-vendredi,18h,Nettoyage sanitaires hommes,Laurent H,M,30.0,Équipe G
-vendredi,18h,Nettoyage sanitaires hommes,Vincent N,M,30.0,Équipe G
-vendredi,18h,Nettoyage sanitaires hommes,Jérôme L,M,30.0,Équipe G
-vendredi,18h,Nettoyage sanitaires hommes,Kevin P,M,30.0,Équipe G
-vendredi,18h,Nettoyage sanitaires femmes,Noémie S,F,30.0,Équipe H
-vendredi,18h,Nettoyage sanitaires femmes,Ingrid T,F,30.0,Équipe H
-vendredi,18h,Nettoyage sanitaires femmes,Claire R,F,30.0,Équipe H
-vendredi,18h,Nettoyage sanitaires femmes,Justine M,F,30.0,Équipe H
-vendredi,18h,Dîner : cuisine,Amandine C,F,60.0,Équipe I
-vendredi,18h,Dîner : cuisine,Stéphane V,M,60.0,Équipe I
-vendredi,18h,Dîner : cuisine,Maëlle G,F,60.0,Équipe I
-vendredi,18h,Dîner : cuisine,Damien A,M,60.0,Équipe I
-vendredi,18h,Dîner : cuisine,Marine K,F,60.0,Équipe I
+vendredi,13h45,Déjeuner : vaisselle ,Léa M,M,15.0,Équipe E
+vendredi,13h45,Déjeuner : vaisselle ,David E,M,15.0,Équipe E
+vendredi,18h,Ccommuns,Maxime J,M,30.0,Équipe F
+vendredi,18h,Ccommuns,Benoît C,M,30.0,Équipe F
+vendredi,18h,Ccommuns,François B,M,30.0,Équipe F
+vendredi,18h,Ccommuns,Laurent H,M,30.0,Équipe F
+vendredi,18h,Ccommuns,Vincent N,M,30.0,Équipe F
+vendredi,18h,Ccommuns,Claire D,F,30.0,Équipe F
+vendredi,18h,Ccommuns,Julien T,M,30.0,Équipe F
+vendredi,18h,Ccommuns,Sophie L,M,30.0,Équipe F
+vendredi,18h,Nettoyage sanitaires H,Marc V,M,30.0,Équipe G
+vendredi,18h,Nettoyage sanitaires H,Émilie G,M,30.0,Équipe G
+vendredi,18h,Nettoyage sanitaires H,Antoine S,M,30.0,Équipe G
+vendredi,18h,Nettoyage sanitaires H,Julie F,M,30.0,Équipe G
+vendredi,18h,Nettoyage sanitaires F,Anaïs L,F,30.0,Équipe H
+vendredi,18h,Nettoyage sanitaires F,Pauline F,F,30.0,Équipe H
+vendredi,18h,Nettoyage sanitaires F,Élise D,F,30.0,Équipe H
+vendredi,18h,Nettoyage sanitaires F,Noémie S,F,30.0,Équipe H
+vendredi,18h,Dîner : cuisine,Pierre H,M,60.0,Équipe I
+vendredi,18h,Dîner : cuisine,Nicolas K,M,60.0,Équipe I
 vendredi,18h,Dîner : cuisine,Sarah P,M,60.0,Équipe I
 vendredi,18h,Dîner : cuisine,Romain G,M,60.0,Équipe I
-vendredi,18h,Dîner : cuisine,Louis R,M,60.0,Équipe I
-vendredi,18h,Dîner : cuisine,Patrick M,M,60.0,Équipe I
-vendredi,18h,Dîner : cuisine,Claire D,F,60.0,Équipe I
-vendredi,20h30,Dîner : débarrassage et nettoyage des tables ,Camille P,M,15.0,Équipe J
-vendredi,20h30,Dîner : débarrassage et nettoyage des tables ,Thomas C,M,15.0,Équipe J
-vendredi,20h30,Dîner : débarrassage et nettoyage des tables ,Nathalie J,M,15.0,Équipe J
-vendredi,20h30,Dîner : débarrassage et nettoyage des tables ,Arnaud L,M,15.0,Équipe J
-vendredi,20h30,Dîner : débarrassage et nettoyage des tables ,Chloé M,M,15.0,Équipe J
-vendredi,20h30,Dîner : débarrassage et nettoyage des tables ,Mathieu B,M,15.0,Équipe J
-vendredi,20h30,Dîner : débarrassage et nettoyage des tables ,Sandrine R,M,15.0,Équipe J
-vendredi,20h30,Dîner : débarrassage et nettoyage des tables ,Léa M,M,15.0,Équipe J
-vendredi,20h45,Dîner :  vaisselle,David E,M,15.0,Équipe K
-vendredi,20h45,Dîner :  vaisselle,Maxime J,M,15.0,Équipe K
-vendredi,20h45,Dîner :  vaisselle,Benoît C,M,15.0,Équipe K
-vendredi,20h45,Dîner :  vaisselle,François B,M,15.0,Équipe K
-vendredi,20h45,Dîner :  vaisselle,Laurent H,M,15.0,Équipe K
-vendredi,20h45,Dîner :  vaisselle,Vincent N,M,15.0,Équipe K
-vendredi,20h45,Dîner :  vaisselle,Jérôme L,M,15.0,Équipe K
-vendredi,20h45,Dîner :  vaisselle,Kevin P,M,15.0,Équipe K
-samedi,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Manon T,M,15.0,Équipe A
-samedi,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Hugo D,M,15.0,Équipe A
-samedi,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Laura C,M,15.0,Équipe A
-samedi,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Sébastien A,M,15.0,Équipe A
-samedi,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Marion N,M,15.0,Équipe A
-samedi,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Alexandre V,M,15.0,Équipe A
-samedi,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Quentin D,M,15.0,Équipe A
-samedi,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Julien T,M,15.0,Équipe A
-samedi,9h15,Petit-déjeuner :  vaisselle,Manon T,M,15.0,Équipe B
-samedi,9h15,Petit-déjeuner :  vaisselle,Hugo D,M,15.0,Équipe B
-samedi,9h15,Petit-déjeuner :  vaisselle,Laura C,M,15.0,Équipe B
-samedi,9h15,Petit-déjeuner :  vaisselle,Sébastien A,M,15.0,Équipe B
-samedi,9h15,Petit-déjeuner :  vaisselle,Marion N,M,15.0,Équipe B
-samedi,9h15,Petit-déjeuner :  vaisselle,Alexandre V,M,15.0,Équipe B
-samedi,9h15,Petit-déjeuner :  vaisselle,Sophie L,M,15.0,Équipe B
-samedi,9h15,Petit-déjeuner :  vaisselle,Marc V,M,15.0,Équipe B
+vendredi,18h,Dîner : cuisine,Léa M,M,60.0,Équipe I
+vendredi,18h,Dîner : cuisine,David E,M,60.0,Équipe I
+vendredi,18h,Dîner : cuisine,Ingrid T,F,60.0,Équipe I
+vendredi,18h,Dîner : cuisine,Claire R,F,60.0,Équipe I
+vendredi,18h,Dîner : cuisine,Maxime J,M,60.0,Équipe I
+vendredi,18h,Dîner : cuisine,Benoît C,M,60.0,Équipe I
+vendredi,20h30,Dîner : nettoyage tables ,François B,M,15.0,Équipe J
+vendredi,20h30,Dîner : nettoyage tables ,Laurent H,M,15.0,Équipe J
+vendredi,20h30,Dîner : nettoyage tables ,Vincent N,M,15.0,Équipe J
+vendredi,20h30,Dîner : nettoyage tables ,Louis R,M,15.0,Équipe J
+vendredi,20h45,Dîner :  vaisselle,Patrick M,M,15.0,Équipe K
+vendredi,20h45,Dîner :  vaisselle,Julien T,M,15.0,Équipe K
+vendredi,20h45,Dîner :  vaisselle,Sophie L,M,15.0,Équipe K
+vendredi,20h45,Dîner :  vaisselle,Marc V,M,15.0,Équipe K
+vendredi,20h45,Dîner :  vaisselle,Émilie G,M,15.0,Équipe K
+vendredi,20h45,Dîner :  vaisselle,Antoine S,M,15.0,Équipe K
+vendredi,20h45,Dîner :  vaisselle,Julie F,M,15.0,Équipe K
+vendredi,20h45,Dîner :  vaisselle,Camille P,M,15.0,Équipe K
+samedi,9h,Ptit-déj : nettoyage tables ,Manon T,M,15.0,Équipe A
+samedi,9h,Ptit-déj : nettoyage tables ,Hugo D,M,15.0,Équipe A
+samedi,9h,Ptit-déj : nettoyage tables ,Laura C,M,15.0,Équipe A
+samedi,9h,Ptit-déj : nettoyage tables ,Sébastien A,M,15.0,Équipe A
+samedi,9h15,Ptit-déj :  vaisselle,Marion N,M,15.0,Équipe B
+samedi,9h15,Ptit-déj :  vaisselle,Alexandre V,M,15.0,Équipe B
+samedi,9h15,Ptit-déj :  vaisselle,Manon T,M,15.0,Équipe B
+samedi,9h15,Ptit-déj :  vaisselle,Hugo D,M,15.0,Équipe B
+samedi,9h15,Ptit-déj :  vaisselle,Laura C,M,15.0,Équipe B
+samedi,9h15,Ptit-déj :  vaisselle,Sébastien A,M,15.0,Équipe B
+samedi,9h15,Ptit-déj :  vaisselle,Thomas C,M,15.0,Équipe B
+samedi,9h15,Ptit-déj :  vaisselle,Nathalie J,M,15.0,Équipe B
+samedi,11h,Déjeuner : cuisine,Marion N,M,60.0,Équipe C
+samedi,11h,Déjeuner : cuisine,Alexandre V,M,60.0,Équipe C
 samedi,11h,Déjeuner : cuisine,Manon T,M,60.0,Équipe C
 samedi,11h,Déjeuner : cuisine,Hugo D,M,60.0,Équipe C
 samedi,11h,Déjeuner : cuisine,Laura C,M,60.0,Équipe C
 samedi,11h,Déjeuner : cuisine,Sébastien A,M,60.0,Équipe C
-samedi,11h,Déjeuner : cuisine,Marion N,M,60.0,Équipe C
-samedi,11h,Déjeuner : cuisine,Alexandre V,M,60.0,Équipe C
-samedi,11h,Déjeuner : cuisine,Émilie G,M,60.0,Équipe C
-samedi,11h,Déjeuner : cuisine,Antoine S,M,60.0,Équipe C
-samedi,11h,Déjeuner : cuisine,Julie F,M,60.0,Équipe C
-samedi,11h,Déjeuner : cuisine,Pierre H,M,60.0,Équipe C
-samedi,13h30,Déjeuner : débarrassage et nettoyage des tables  ,Camille P,M,15.0,Équipe D
-samedi,13h30,Déjeuner : débarrassage et nettoyage des tables  ,Thomas C,M,15.0,Équipe D
-samedi,13h30,Déjeuner : débarrassage et nettoyage des tables  ,Nathalie J,M,15.0,Équipe D
-samedi,13h30,Déjeuner : débarrassage et nettoyage des tables  ,Arnaud L,M,15.0,Équipe D
-samedi,13h30,Déjeuner : débarrassage et nettoyage des tables  ,Chloé M,M,15.0,Équipe D
-samedi,13h30,Déjeuner : débarrassage et nettoyage des tables  ,Mathieu B,M,15.0,Équipe D
-samedi,13h30,Déjeuner : débarrassage et nettoyage des tables  ,Sandrine R,M,15.0,Équipe D
-samedi,13h30,Déjeuner : débarrassage et nettoyage des tables  ,Nicolas K,M,15.0,Équipe D
-samedi,13h45,Déjeuner : vaisselle ,Léa M,M,15.0,Équipe E
-samedi,13h45,Déjeuner : vaisselle ,David E,M,15.0,Équipe E
-samedi,13h45,Déjeuner : vaisselle ,Maxime J,M,15.0,Équipe E
-samedi,13h45,Déjeuner : vaisselle ,Benoît C,M,15.0,Équipe E
-samedi,13h45,Déjeuner : vaisselle ,François B,M,15.0,Équipe E
-samedi,13h45,Déjeuner : vaisselle ,Laurent H,M,15.0,Équipe E
-samedi,13h45,Déjeuner : vaisselle ,Vincent N,M,15.0,Équipe E
-samedi,13h45,Déjeuner : vaisselle ,Jérôme L,M,15.0,Équipe E
-samedi,18h,Nettoyage parties communes,Quentin D,M,30.0,Équipe F
-samedi,18h,Nettoyage parties communes,Julien T,M,30.0,Équipe F
-samedi,18h,Nettoyage parties communes,Sophie L,M,30.0,Équipe F
-samedi,18h,Nettoyage parties communes,Marc V,M,30.0,Équipe F
-samedi,18h,Nettoyage parties communes,Camille P,M,30.0,Équipe F
-samedi,18h,Nettoyage parties communes,Thomas C,M,30.0,Équipe F
-samedi,18h,Nettoyage parties communes,Nathalie J,M,30.0,Équipe F
-samedi,18h,Nettoyage parties communes,Arnaud L,M,30.0,Équipe F
-samedi,18h,Nettoyage sanitaires hommes,Chloé M,M,30.0,Équipe G
-samedi,18h,Nettoyage sanitaires hommes,Mathieu B,M,30.0,Équipe G
-samedi,18h,Nettoyage sanitaires hommes,Sandrine R,M,30.0,Équipe G
-samedi,18h,Nettoyage sanitaires hommes,Nicolas K,M,30.0,Équipe G
-samedi,18h,Nettoyage sanitaires femmes,Anaïs L,F,30.0,Équipe H
-samedi,18h,Nettoyage sanitaires femmes,Pauline F,F,30.0,Équipe H
-samedi,18h,Nettoyage sanitaires femmes,Élise D,F,30.0,Équipe H
-samedi,18h,Nettoyage sanitaires femmes,Noémie S,F,30.0,Équipe H
+samedi,11h,Déjeuner : cuisine,Arnaud L,M,60.0,Équipe C
+samedi,11h,Déjeuner : cuisine,Chloé M,M,60.0,Équipe C
+samedi,11h,Déjeuner : cuisine,Mathieu B,M,60.0,Équipe C
+samedi,11h,Déjeuner : cuisine,Sandrine R,M,60.0,Équipe C
+samedi,13h30,Déjeuner : nettoyage tables  ,François B,M,15.0,Équipe D
+samedi,13h30,Déjeuner : nettoyage tables  ,Laurent H,M,15.0,Équipe D
+samedi,13h30,Déjeuner : nettoyage tables  ,Vincent N,M,15.0,Équipe D
+samedi,13h30,Déjeuner : nettoyage tables  ,Jérôme L,M,15.0,Équipe D
+samedi,13h45,Déjeuner : vaisselle ,Damien A,M,15.0,Équipe E
+samedi,13h45,Déjeuner : vaisselle ,Quentin D,M,15.0,Équipe E
+samedi,13h45,Déjeuner : vaisselle ,Louis R,M,15.0,Équipe E
+samedi,13h45,Déjeuner : vaisselle ,Patrick M,M,15.0,Équipe E
+samedi,13h45,Déjeuner : vaisselle ,Julien T,M,15.0,Équipe E
+samedi,13h45,Déjeuner : vaisselle ,Sophie L,M,15.0,Équipe E
+samedi,13h45,Déjeuner : vaisselle ,Marc V,M,15.0,Équipe E
+samedi,13h45,Déjeuner : vaisselle ,Émilie G,M,15.0,Équipe E
+samedi,18h,Nettoyage communs,Antoine S,M,30.0,Équipe F
+samedi,18h,Nettoyage communs,Julie F,M,30.0,Équipe F
+samedi,18h,Nettoyage communs,Camille P,M,30.0,Équipe F
+samedi,18h,Nettoyage communs,Thomas C,M,30.0,Équipe F
+samedi,18h,Nettoyage communs,Nathalie J,M,30.0,Équipe F
+samedi,18h,Nettoyage communs,Marion N,M,30.0,Équipe F
+samedi,18h,Nettoyage communs,Alexandre V,M,30.0,Équipe F
+samedi,18h,Nettoyage communs,François B,M,30.0,Équipe F
+samedi,18h,Nettoyage sanitaires H,Laurent H,M,30.0,Équipe G
+samedi,18h,Nettoyage sanitaires H,Vincent N,M,30.0,Équipe G
+samedi,18h,Nettoyage sanitaires H,Jérôme L,M,30.0,Équipe G
+samedi,18h,Nettoyage sanitaires H,Damien A,M,30.0,Équipe G
+samedi,18h,Nettoyage sanitaires F,Claire D,F,30.0,Équipe H
+samedi,18h,Nettoyage sanitaires F,Anaïs L,F,30.0,Équipe H
+samedi,18h,Nettoyage sanitaires F,Pauline F,F,30.0,Équipe H
+samedi,18h,Nettoyage sanitaires F,Élise D,F,30.0,Équipe H
+samedi,18h,Dîner : cuisine,Quentin D,M,60.0,Équipe I
+samedi,18h,Dîner : cuisine,Louis R,M,60.0,Équipe I
+samedi,18h,Dîner : cuisine,Patrick M,M,60.0,Équipe I
+samedi,18h,Dîner : cuisine,Julien T,M,60.0,Équipe I
+samedi,18h,Dîner : cuisine,Sophie L,M,60.0,Équipe I
+samedi,18h,Dîner : cuisine,Marc V,M,60.0,Équipe I
+samedi,18h,Dîner : cuisine,Émilie G,M,60.0,Équipe I
+samedi,18h,Dîner : cuisine,Pierre H,M,60.0,Équipe I
+samedi,18h,Dîner : cuisine,Nicolas K,M,60.0,Équipe I
 samedi,18h,Dîner : cuisine,Manon T,M,60.0,Équipe I
-samedi,18h,Dîner : cuisine,Hugo D,M,60.0,Équipe I
-samedi,18h,Dîner : cuisine,Laura C,M,60.0,Équipe I
-samedi,18h,Dîner : cuisine,Sébastien A,M,60.0,Équipe I
-samedi,18h,Dîner : cuisine,Marion N,M,60.0,Équipe I
-samedi,18h,Dîner : cuisine,Alexandre V,M,60.0,Équipe I
-samedi,18h,Dîner : cuisine,Léa M,M,60.0,Équipe I
-samedi,18h,Dîner : cuisine,David E,M,60.0,Équipe I
-samedi,18h,Dîner : cuisine,Maxime J,M,60.0,Équipe I
-samedi,18h,Dîner : cuisine,Benoît C,M,60.0,Équipe I
-samedi,20h30,Dîner : débarrassage et nettoyage des tables ,François B,M,15.0,Équipe J
-samedi,20h30,Dîner : débarrassage et nettoyage des tables ,Laurent H,M,15.0,Équipe J
-samedi,20h30,Dîner : débarrassage et nettoyage des tables ,Ingrid T,F,15.0,Équipe J
-samedi,20h30,Dîner : débarrassage et nettoyage des tables ,Vincent N,M,15.0,Équipe J
-samedi,20h30,Dîner : débarrassage et nettoyage des tables ,Claire R,F,15.0,Équipe J
-samedi,20h30,Dîner : débarrassage et nettoyage des tables ,Jérôme L,M,15.0,Équipe J
-samedi,20h30,Dîner : débarrassage et nettoyage des tables ,Damien A,M,15.0,Équipe J
-samedi,20h30,Dîner : débarrassage et nettoyage des tables ,Sarah P,M,15.0,Équipe J
+samedi,20h30,Dîner : nettoyage tables ,Hugo D,M,15.0,Équipe J
+samedi,20h30,Dîner : nettoyage tables ,Laura C,M,15.0,Équipe J
+samedi,20h30,Dîner : nettoyage tables ,Sébastien A,M,15.0,Équipe J
+samedi,20h30,Dîner : nettoyage tables ,Sarah P,M,15.0,Équipe J
 samedi,20h45,Dîner :  vaisselle,Romain G,M,15.0,Équipe K
-samedi,20h45,Dîner :  vaisselle,François B,M,15.0,Équipe K
-samedi,20h45,Dîner :  vaisselle,Laurent H,M,15.0,Équipe K
-samedi,20h45,Dîner :  vaisselle,Vincent N,M,15.0,Équipe K
-samedi,20h45,Dîner :  vaisselle,Jérôme L,M,15.0,Équipe K
-samedi,20h45,Dîner :  vaisselle,Damien A,M,15.0,Équipe K
-samedi,20h45,Dîner :  vaisselle,Quentin D,M,15.0,Équipe K
-samedi,20h45,Dîner :  vaisselle,Louis R,M,15.0,Équipe K
-dimanche,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Cécile B,F,15.0,Équipe A
-dimanche,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Patrick M,M,15.0,Équipe A
-dimanche,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Julien T,M,15.0,Équipe A
-dimanche,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Sophie L,M,15.0,Équipe A
-dimanche,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Marc V,M,15.0,Équipe A
-dimanche,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Camille P,M,15.0,Équipe A
-dimanche,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Thomas C,M,15.0,Équipe A
-dimanche,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,Nathalie J,M,15.0,Équipe A
-dimanche,9h15,Petit-déjeuner :  vaisselle,Arnaud L,M,15.0,Équipe B
-dimanche,9h15,Petit-déjeuner :  vaisselle,Chloé M,M,15.0,Équipe B
-dimanche,9h15,Petit-déjeuner :  vaisselle,Mathieu B,M,15.0,Équipe B
-dimanche,9h15,Petit-déjeuner :  vaisselle,Sandrine R,M,15.0,Équipe B
-dimanche,9h15,Petit-déjeuner :  vaisselle,Nicolas K,M,15.0,Équipe B
-dimanche,9h15,Petit-déjeuner :  vaisselle,Sarah P,M,15.0,Équipe B
-dimanche,9h15,Petit-déjeuner :  vaisselle,Romain G,M,15.0,Équipe B
-dimanche,9h15,Petit-déjeuner :  vaisselle,Claire R,F,15.0,Équipe B
-dimanche,11h,Nettoyage parties communes,Jérôme L,M,30.0,Équipe F
-dimanche,11h,Nettoyage parties communes,Damien A,M,30.0,Équipe F
-dimanche,11h,Nettoyage parties communes,Quentin D,M,30.0,Équipe F
-dimanche,11h,Nettoyage parties communes,Audrey J,F,30.0,Équipe F
-dimanche,11h,Nettoyage parties communes,Louis R,M,30.0,Équipe F
-dimanche,11h,Nettoyage parties communes,Patrick M,M,30.0,Équipe F
-dimanche,11h,Nettoyage parties communes,Julien T,M,30.0,Équipe F
-dimanche,11h,Nettoyage parties communes,Sophie L,M,30.0,Équipe F
-dimanche,11h,Nettoyage sanitaires hommes,Marc V,M,30.0,Équipe G
-dimanche,11h,Nettoyage sanitaires hommes,Émilie G,M,30.0,Équipe G
-dimanche,11h,Nettoyage sanitaires hommes,Antoine S,M,30.0,Équipe G
-dimanche,11h,Nettoyage sanitaires hommes,Julie F,M,30.0,Équipe G
-dimanche,11h,Nettoyage sanitaires femmes,Cécile B,F,30.0,Équipe H
-dimanche,11h,Nettoyage sanitaires femmes,Anaïs L,F,30.0,Équipe H
-dimanche,11h,Nettoyage sanitaires femmes,Claire R,F,30.0,Équipe H
-dimanche,11h,Nettoyage sanitaires femmes,Marine K,F,30.0,Équipe H
+samedi,20h45,Dîner :  vaisselle,Léa M,M,15.0,Équipe K
+samedi,20h45,Dîner :  vaisselle,David E,M,15.0,Équipe K
+samedi,20h45,Dîner :  vaisselle,Noémie S,F,15.0,Équipe K
+samedi,20h45,Dîner :  vaisselle,Antoine S,M,15.0,Équipe K
+samedi,20h45,Dîner :  vaisselle,Julie F,M,15.0,Équipe K
+samedi,20h45,Dîner :  vaisselle,Camille P,M,15.0,Équipe K
+samedi,20h45,Dîner :  vaisselle,Thomas C,M,15.0,Équipe K
+dimanche,9h,Ptit-déj : nettoyage tables ,Nathalie J,M,15.0,Équipe A
+dimanche,9h,Ptit-déj : nettoyage tables ,Hugo D,M,15.0,Équipe A
+dimanche,9h,Ptit-déj : nettoyage tables ,Laura C,M,15.0,Équipe A
+dimanche,9h,Ptit-déj : nettoyage tables ,Sébastien A,M,15.0,Équipe A
+dimanche,9h15,Ptit-déj :  vaisselle,Marion N,M,15.0,Équipe B
+dimanche,9h15,Ptit-déj :  vaisselle,Alexandre V,M,15.0,Équipe B
+dimanche,9h15,Ptit-déj :  vaisselle,Sarah P,M,15.0,Équipe B
+dimanche,9h15,Ptit-déj :  vaisselle,Romain G,M,15.0,Équipe B
+dimanche,9h15,Ptit-déj :  vaisselle,Léa M,M,15.0,Équipe B
+dimanche,9h15,Ptit-déj :  vaisselle,David E,M,15.0,Équipe B
+dimanche,9h15,Ptit-déj :  vaisselle,Maxime J,M,15.0,Équipe B
+dimanche,9h15,Ptit-déj :  vaisselle,Jérôme L,M,15.0,Équipe B
+dimanche,11h,Nettoyage communs,Damien A,M,30.0,Équipe F
+dimanche,11h,Nettoyage communs,Cécile B,F,30.0,Équipe F
+dimanche,11h,Nettoyage communs,Antoine S,M,30.0,Équipe F
+dimanche,11h,Nettoyage communs,Julie F,M,30.0,Équipe F
+dimanche,11h,Nettoyage communs,Camille P,M,30.0,Équipe F
+dimanche,11h,Nettoyage communs,Thomas C,M,30.0,Équipe F
+dimanche,11h,Nettoyage communs,Nathalie J,M,30.0,Équipe F
+dimanche,11h,Nettoyage communs,Arnaud L,M,30.0,Équipe F
+dimanche,11h,Nettoyage sanitaires H,Chloé M,M,30.0,Équipe G
+dimanche,11h,Nettoyage sanitaires H,Mathieu B,M,30.0,Équipe G
+dimanche,11h,Nettoyage sanitaires H,Sandrine R,M,30.0,Équipe G
+dimanche,11h,Nettoyage sanitaires H,Hugo D,M,30.0,Équipe G
+dimanche,11h,Nettoyage sanitaires F,Marine K,F,30.0,Équipe H
+dimanche,11h,Nettoyage sanitaires F,Audrey J,F,30.0,Équipe H
+dimanche,11h,Nettoyage sanitaires F,Claire D,F,30.0,Équipe H
+dimanche,11h,Nettoyage sanitaires F,Anaïs L,F,30.0,Équipe H

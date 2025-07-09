@@ -1,31 +1,31 @@
 Jour,Horaire,Tâche,Genre,Temps estimé,Nbr de participants par tache,Équipe
 jeudi,18h,Dîner : cuisine,0,60 min,10,Équipe I
-jeudi,20h30,Dîner : débarrassage et nettoyage des tables ,0,15 min,8,Équipe J
+jeudi,20h30,Dîner : nettoyage tables ,0,15 min,4,Équipe J
 jeudi,20h45,Dîner :  vaisselle,0,15 min,8,Équipe K
-vendredi,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,0,15 min,8,Équipe A
-vendredi,9h15,Petit-déjeuner :  vaisselle,0,15 min,8,Équipe B
+vendredi,9h,Ptit-déj : nettoyage tables ,0,15 min,4,Équipe A
+vendredi,9h15,Ptit-déj :  vaisselle,0,15 min,8,Équipe B
 vendredi,11h,Déjeuner : cuisine,0,60 min,10,Équipe C
-vendredi,13h30,Déjeuner : débarrassage et nettoyage des tables  ,0,15 min,8,Équipe D
+vendredi,13h30,Déjeuner : nettoyage tables  ,0,15 min,4,Équipe D
 vendredi,13h45,Déjeuner : vaisselle ,0,15 min,8,Équipe E
-vendredi,18h,Nettoyage parties communes,0,30 min,8,Équipe F
-vendredi,18h,Nettoyage sanitaires hommes,M,30 min,4,Équipe G
-vendredi,18h,Nettoyage sanitaires femmes,F,30 min,4,Équipe H
+vendredi,18h,Ccommuns,0,30 min,8,Équipe F
+vendredi,18h,Nettoyage sanitaires H,M,30 min,4,Équipe G
+vendredi,18h,Nettoyage sanitaires F,F,30 min,4,Équipe H
 vendredi,18h,Dîner : cuisine,0,60 min,10,Équipe I
-vendredi,20h30,Dîner : débarrassage et nettoyage des tables ,0,15 min,8,Équipe J
+vendredi,20h30,Dîner : nettoyage tables ,0,15 min,4,Équipe J
 vendredi,20h45,Dîner :  vaisselle,0,15 min,8,Équipe K
-samedi,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,0,15 min,8,Équipe A
-samedi,9h15,Petit-déjeuner :  vaisselle,0,15 min,8,Équipe B
+samedi,9h,Ptit-déj : nettoyage tables ,0,15 min,4,Équipe A
+samedi,9h15,Ptit-déj :  vaisselle,0,15 min,8,Équipe B
 samedi,11h,Déjeuner : cuisine,0,60 min,10,Équipe C
-samedi,13h30,Déjeuner : débarrassage et nettoyage des tables  ,0,15 min,8,Équipe D
+samedi,13h30,Déjeuner : nettoyage tables  ,0,15 min,4,Équipe D
 samedi,13h45,Déjeuner : vaisselle ,0,15 min,8,Équipe E
-samedi,18h,Nettoyage parties communes,0,30 min,8,Équipe F
-samedi,18h,Nettoyage sanitaires hommes,M,30 min,4,Équipe G
-samedi,18h,Nettoyage sanitaires femmes,F,30 min,4,Équipe H
+samedi,18h,Nettoyage communs,0,30 min,8,Équipe F
+samedi,18h,Nettoyage sanitaires H,M,30 min,4,Équipe G
+samedi,18h,Nettoyage sanitaires F,F,30 min,4,Équipe H
 samedi,18h,Dîner : cuisine,0,60 min,10,Équipe I
-samedi,20h30,Dîner : débarrassage et nettoyage des tables ,0,15 min,8,Équipe J
+samedi,20h30,Dîner : nettoyage tables ,0,15 min,4,Équipe J
 samedi,20h45,Dîner :  vaisselle,0,15 min,8,Équipe K
-dimanche,9h,Petit-déjeuner : débarrassage et nettoyage des tables ,0,15 min,8,Équipe A
-dimanche,9h15,Petit-déjeuner :  vaisselle,0,15 min,8,Équipe B
-dimanche,11h,Nettoyage parties communes,0,30 min,8,Équipe F
-dimanche,11h,Nettoyage sanitaires hommes,M,30 min,4,Équipe G
-dimanche,11h,Nettoyage sanitaires femmes,F,30 min,4,Équipe H
+dimanche,9h,Ptit-déj : nettoyage tables ,0,15 min,4,Équipe A
+dimanche,9h15,Ptit-déj :  vaisselle,0,15 min,8,Équipe B
+dimanche,11h,Nettoyage communs,0,30 min,8,Équipe F
+dimanche,11h,Nettoyage sanitaires H,M,30 min,4,Équipe G
+dimanche,11h,Nettoyage sanitaires F,F,30 min,4,Équipe H
