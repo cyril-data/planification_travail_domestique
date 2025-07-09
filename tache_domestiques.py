@@ -3,7 +3,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from matplotlib.backends.backend_pdf import PdfPages
 import textwrap
-import re
 
 # Chargement des fichiers
 tasks_df = pd.read_csv("taches.csv")
@@ -116,7 +115,6 @@ def format_h_m(minutes):
     return f"{h}h{m:02d}"
 
 
-print("\n")
 print(f"Nombre de femmes : {nb_femme:.0f}")
 print(f"Nombre d'hommes : {nb_homme:.0f}")
 print(f"Ratio H/F : {(nb_homme / nb_femme):.2f}")
