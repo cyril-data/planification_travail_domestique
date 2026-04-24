@@ -119,4 +119,5 @@ Répartition sauvegardée dans 'repartition_taches.csv'
 Résultats pdf :  repartition_par_participant_par_jour.pdf 
 Sour format numérique : *repartition_par_participant.csv* *repartition_par_tache.csv* *repartition_taches.csv*
 
-
+# Mise en forme
+Ensuite, modifier les fichier .odt et inserer un champs de publipostage avec les bases de données repartitions_femmes.csv et repartitions_hommes.csv qui ont été créé/modifier par le programme python. 
