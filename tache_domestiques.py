@@ -5,6 +5,11 @@ from matplotlib.backends.backend_pdf import PdfPages
 from datetime import datetime
 import textwrap
 
+# `rapport_travail_homme_femme` : facteur temps de travail homme par rapport aux femme
+# Si rapport_travail_homme_femme = 2 : les hommes travaillent 2 * plus que les femmes
+
+rapport_travail_homme_femme = 1.0
+
 # Chargement des fichiers
 tasks_df = pd.read_csv("taches.csv")
 participants_df = pd.read_csv("participants.csv")
@@ -66,10 +71,13 @@ nb_femme = len(women)
 
 # Temps total
 total_time = (tasks_df["Temps_minutes"] * tasks_df["Nbr de participants par tache"]).sum()
-temps_moyen_femme = total_time / (2 * nb_homme + nb_femme)
-temps_moyen_homme = 2 * temps_moyen_femme
+temps_moyen_femme = total_time / (rapport_travail_homme_femme * nb_homme + nb_femme)
+temps_moyen_homme = rapport_travail_homme_femme * temps_moyen_femme
 
-temps_visé = {p["Participants"]: temps_moyen_homme if p["Genre"] == "H" else temps_moyen_femme for p in participants}
+temps_visé = {
+    p["Participants"]: temps_moyen_homme if p["Genre"] == "H" else temps_moyen_femme
+    for p in participants
+}
 temps_assigné = {p["Participants"]: 0 for p in participants}
 
 assignments = []
@@ -79,7 +87,11 @@ assignments = []
 def get_best_fit(genre, n):
     pool = men if genre == "H" else women
     pool_sorted = sorted(
-        pool, key=lambda x: (temps_assigné[x["Participants"]] / temps_visé[x["Participants"]], x["Ordre_arrivee"])
+        pool,
+        key=lambda x: (
+            temps_assigné[x["Participants"]] / temps_visé[x["Participants"]],
+            x["Ordre_arrivee"],
+        ),
     )
     return pool_sorted[:n]
 
@@ -89,8 +101,8 @@ tasks_df["Charge_totale"] = tasks_df["Temps_minutes"] * tasks_df["Nbr de partici
 total_time = tasks_df["Charge_totale"].sum()
 
 # Moyennes cibles
-temps_moyen_femme = total_time / (2 * nb_homme + nb_femme)
-temps_moyen_homme = 2 * temps_moyen_femme
+temps_moyen_femme = total_time / (rapport_travail_homme_femme * nb_homme + nb_femme)
+temps_moyen_homme = rapport_travail_homme_femme * temps_moyen_femme
 
 # Temps total cible par genre
 temps_total_femmes = nb_femme * temps_moyen_femme
@@ -169,7 +181,9 @@ def afficher_stats(groupe, genre, cible_moyenne):
     borne_basse = np.percentile(temps, 5)
     borne_haute = np.percentile(temps, 95)
 
-    print(f"~90% des {genre}s ont travaillé entre {format_h_min(borne_basse)} et {format_h_min(borne_haute)}")
+    print(
+        f"~90% des {genre}s ont travaillé entre {format_h_min(borne_basse)} et {format_h_min(borne_haute)}"
+    )
 
 
 print("\n--- RÉPARTITION TOTALE ---")
@@ -209,7 +223,9 @@ def export_repartitions_csv(personnes, genre, nom_fichier):
             taches_liste = []
             for tache in personne["taches"]:
                 # Format : "• Jour Horaire – Tâche"
-                taches_liste.append(f"• {tache['Jour'].capitalize()} {tache['Horaire']} – {tache['Temps']} min")
+                taches_liste.append(
+                    f"• {tache['Jour'].capitalize()} {tache['Horaire']} – {tache['Temps']} min – {tache['Tâche']}"
+                )
             taches_concat = "\n".join(taches_liste)
 
             writer.writerow([genre, taches_concat])
